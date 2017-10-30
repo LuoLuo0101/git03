@@ -7,3 +7,5 @@ print(num1)
 print(math.random() + "master")
 print(math.random() + num1)
 print("hahaha")
+print("我修复了bug")
+
